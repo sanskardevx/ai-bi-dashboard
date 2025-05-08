@@ -66,4 +66,5 @@ Power BI delivers an interactive business intelligence experience, enabling deep
 
 ## 🗂️ How to Use
 
-1. **Clone the repository:**  
+1. **Clone the repository:** [ai-bi-dashboard](https://github.com/sanskardevx/ai-bi-dashboard.git)
+  
