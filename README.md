@@ -1,7 +1,6 @@
 # 🍕 Pizza Sales Insights
 
-This project demonstrates an end-to-end **data analytics workflow** for pizza sales data — covering data cleaning, transformation, and visualization using **SQL, Python, Excel, Power BI, and Databricks**.  
-It was developed as part of my learning journey to strengthen practical data analysis and dashboarding skills, aligning with the **Google Bharat Digital Apprenticeship (Data Science)** focus on applied analytics.
+This project demonstrates an end-to-end **data analytics workflow** for pizza sales data covering data cleaning, transformation, and visualization using **SQL, Python, Excel, Power BI, and Databricks**.  
 
 ---
 
