@@ -12,7 +12,7 @@ To analyze pizza sales performance and uncover insights that improve business de
 ## 📁 Project Structure
 
 - [`data/`](./data/) – Raw pizza sales dataset (`Pizza_Sales.csv`)
-- [`notebooks/`](./notebooks/) – Jupyter and Databricks notebooks for data exploration and analysis  
+- [`notebooks/`](./notebooks/) – Databricks notebooks for data exploration and analysis  
 - [`dashboards/`](./dashboards/) – Interactive dashboards built with:
   - [`databricks/`](./dashboards/databricks/) – Databricks AI-BI dashboard  
   - [`excel/`](./dashboards/excel/) – Excel dashboard  
