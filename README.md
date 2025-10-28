@@ -34,7 +34,7 @@ This project demonstrates:
 - 💵 The business generated a total revenue of **$817.86K** from approximately **50K pizzas sold**, with an **average selling price of $16.49 per pizza**.  
 - 📈 **Classic pizzas** were the **best-performing category**, contributing the highest share of total revenue (≈27%), followed closely by **Supreme** and **Chicken** pizzas.  
 - 🍕 **Large-sized pizzas** dominated sales volume (**19K orders**), indicating a customer preference for larger sizes and higher-value purchases.  
-- 🗓️ **Quarterly sales trends** remained stable, with a noticeable dip in October — suggesting potential for seasonal or promotional strategies to boost Q4 performance.  
+- 🗓️ **Quarterly sales trends** remained stable, with a noticeable dip in October suggesting potential for seasonal or promotional strategies to boost Q4 performance.  
 - 💰 Revenue distribution shows **L and M sizes** as the most profitable tiers, while **XL and XXL pizzas** have minimal contribution, highlighting opportunities for menu optimization or bundled offers.
 
 ---
