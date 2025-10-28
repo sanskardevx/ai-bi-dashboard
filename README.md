@@ -13,13 +13,10 @@ To analyze pizza sales performance and uncover insights that improve business de
 
 - [`data/`](./data/) – Raw pizza sales dataset (`Pizza_Sales.csv`)
 - [`notebooks/`](./notebooks/) – Jupyter and Databricks notebooks for data exploration and analysis  
-  - `Pizza Insights.ipynb` – Main analysis notebook  
-  - `Pizza-Insights.py` – Databricks notebook script
 - [`dashboards/`](./dashboards/) – Interactive dashboards built with:
   - [`databricks/`](./dashboards/databricks/) – Databricks AI-BI dashboard  
   - [`excel/`](./dashboards/excel/) – Excel dashboard  
   - [`powerbi/`](./dashboards/powerbi/) – Power BI dashboard
-- [`docs/`](./docs/) – Supporting documentation and reports
 
 ---
 
