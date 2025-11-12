@@ -53,7 +53,7 @@ Built in Databricks using PySpark and Spark SQL, this dashboard provides interac
 <img src="./dashboards/excel/Excel-Dashboard.png" alt="Excel Dashboard" width="70%">
 
 **Description:**  
-Excel dashboard offering static yet clear visuals for sales trends, product category breakdowns, and order analysis — ideal for quick business reporting.
+Excel dashboard offering static yet clear visuals for sales trends, product category breakdowns, and order analysis ideal for quick business reporting.
 
 ---
 
@@ -68,7 +68,7 @@ Interactive Power BI dashboard featuring slicers, KPIs, and charts for detailed 
 ## 🧠 Key Learnings
 - Strengthened **SQL and Python** skills for cleaning and EDA.  
 - Built end-to-end BI dashboards with **Power BI and Excel**.  
-- Practiced **storytelling through data** — converting raw data into insights.  
+- Practiced **storytelling through data** converting raw data into insights.  
 - Improved ability to communicate findings visually for **business decision-making**.
 
 ---
